@@ -1,0 +1,8 @@
+c:\Users\Felipe\ColFinanzas\bin\Debug\netcoreapp1.1\ColFinanzas.deps.json
+c:\Users\Felipe\ColFinanzas\bin\Debug\netcoreapp1.1\ColFinanzas.runtimeconfig.json
+c:\Users\Felipe\ColFinanzas\bin\Debug\netcoreapp1.1\ColFinanzas.runtimeconfig.dev.json
+c:\Users\Felipe\ColFinanzas\bin\Debug\netcoreapp1.1\ColFinanzas.dll
+c:\Users\Felipe\ColFinanzas\bin\Debug\netcoreapp1.1\ColFinanzas.pdb
+c:\Users\Felipe\ColFinanzas\obj\Debug\netcoreapp1.1\ColFinanzas.AssemblyInfo.cs
+c:\Users\Felipe\ColFinanzas\obj\Debug\netcoreapp1.1\ColFinanzas.dll
+c:\Users\Felipe\ColFinanzas\obj\Debug\netcoreapp1.1\ColFinanzas.pdb
