@@ -2,11 +2,19 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="container">
+<div class="container text-center">
+      
+    <div class="alert alert-success" role="alert">
+    <!--<h4 class="alert-heading">¡Cálcule fácil!</h4>-->
+    <p>¿Cuánto descontar por retención en la fuente?</p>
+    <p>¿Cuánto pagar por prestación de servicios?</p>
+    <p class="mb-0">¿Cuánto me cuesta realmente un empleado?</p>
+    </div>
 
-      <div class="starter-template">
-        <h1>Bootstrap starter template</h1>
-        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
-      </div>
+    <a class="btn btn-primary btn-lg btn-block" asp-controller="Empresa" asp-action="InicioEmpresa">
+        Soy Empresa
+    </a>
+    <a class="btn btn-success btn-lg btn-block" asp-controller="Trabajador" asp-action="InicioTrabajador">Soy Trabajador</a>
+    </a>      
 
-    </div><!-- /.container -->
+</div><!-- /.container -->
